@@ -1,0 +1,26 @@
+body{
+    background: url(fon1.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    -moz-background-size: 100%;
+    -webkit-background-size: 100%; 
+
+    font-family:Monotype Corsiva, Times, Serif;
+    font-size: 24pt;
+    text-align: center;
+    font-weight: bold;
+}
+#chart{    
+    float:left;
+    width: 15%;
+    height: 35%;
+}
+#task{
+    float:right;
+    font-size: 24pt;
+    border: 5px solid black;
+    background: rgba(179, 255, 0, 0.664);
+    text-align: center;
+    padding: 3%;
+    width: 30%;
+}

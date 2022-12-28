@@ -1,0 +1,10 @@
+D:\Users\stu-pksp120\Desktop\Кузьминова_Экзамен\src\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+D:\Users\stu-pksp120\Desktop\Кузьминова_Экзамен\src\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+D:\Users\stu-pksp120\Desktop\Кузьминова_Экзамен\src\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+D:\Users\stu-pksp120\Desktop\Кузьминова_Экзамен\src\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojAssemblyReference.cache
+D:\Users\stu-pksp120\Desktop\Кузьминова_Экзамен\src\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+D:\Users\stu-pksp120\Desktop\Кузьминова_Экзамен\src\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+D:\Users\stu-pksp120\Desktop\Кузьминова_Экзамен\src\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+D:\Users\stu-pksp120\Desktop\Кузьминова_Экзамен\src\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\Users\stu-pksp120\Desktop\Кузьминова_Экзамен\src\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+D:\Users\stu-pksp120\Desktop\Кузьминова_Экзамен\src\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
